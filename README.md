@@ -1,6 +1,10 @@
 # GANs-Objective-implementation-application
 This repo aims at understanding GAN, provides a small derivation of Generator and Discriminator objective functions and demonstrates application of GAN in pathology images and Context encoders (inpainting)
 
+## Derivations 
+
+The basic explaination and derivation  of Generator and Discriminator objectives can be looked at [here](https://docs.google.com/presentation/d/1KeuofqkaaCeMYNcOfsYRY0Lstqdoe8l13KT397LGvXI/edit#slide=id.g7a60b93b5b_30_56)
+
 
 ## Deep Convolution Generative Adversarial Networks
 
