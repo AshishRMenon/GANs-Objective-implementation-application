@@ -2,7 +2,7 @@
 This repo aims at understanding GAN, provides a small derivation of Generator and Discriminator objective functions and demonstrates application of GAN in pathology images and Context encoders (inpainting)
 
 
-# Deep Convolution Generative Adversarial Networks
+## Deep Convolution Generative Adversarial Networks
 
 This example implements the paper [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](http://arxiv.org/abs/1511.06434)
 
